@@ -23,14 +23,6 @@ I specialize in transforming complex data into high-performance automated workfl
 
 ---
 
-### 📊 Performance Metrics
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=0xjordyv&show_icons=true&theme=tokyonight&hide_border=true&title_color=9d00ff&icon_color=00ff9d&text_color=d8d8e8&bg_color=08080e" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xjordyv&layout=compact&theme=tokyonight&hide_border=true&title_color=9d00ff&text_color=d8d8e8&bg_color=08080e" />
-</p>
-
----
-
 ### 📫 Let's Connect
 [LinkedIn](https://linkedin.com/in/jorgeluis009) | [Twitter / X](https://x.com/0xJordyV) | [jmedrano0929@gmail.com](mailto:jmedrano0929@gmail.com)
 
